@@ -1,0 +1,7 @@
+Auxiliary programs:
+
+convcal.c  -  Source for a utility to convert between different
+              date/time formats
+
+fdf2fit    -  Script to convert Origin-4 .fdf fit parameter files to Grace
+              format
